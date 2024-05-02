@@ -37,11 +37,12 @@
     }
   }
   
-
-  .navbar .navbar-brand {
+.navbar .navbar-brand {
   color: rgb(255, 187, 0); 
   font-size: 42px; 
   font-weight: bold;
 }
 
-  
+.rounded {
+  max-height: 300px;
+}
